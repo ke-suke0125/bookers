@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 64px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.error {
+  margin-left: 50px;
+}
+
+.content {
+  font-size: 20px;
+  margin-left: 130px;
+  line-height: 60px;
+}
+
+.URL {
+  margin-left: 130px;
+  line-height: 60px;
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 40px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.form {
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.table {
+
+}
+
+.tr {
+  display: flex;
+}
+
+.th {
+  margin-left: 100px;
+}
+
+.tr {
+  display: flex;
+}
+
+.td {
+  margin-left: 100px;
+}
+.ts {
+    margin-left: 100px;
+}
+
+h2 {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.content {
+  margin-top: 40px;
+}
+
